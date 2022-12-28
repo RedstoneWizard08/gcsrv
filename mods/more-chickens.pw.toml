@@ -1,0 +1,13 @@
+name = "More Chickens"
+filename = "morechickens-1.12.2-3.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7489d019cb544781cbb4b91810b9c50c402a464a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2545468
+project-id = 251786

@@ -1,0 +1,13 @@
+name = "Torcherino"
+filename = "torcherino-7.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aaa1d7888c7834e9926ec6474abff8889eec8fea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2661356
+project-id = 236794

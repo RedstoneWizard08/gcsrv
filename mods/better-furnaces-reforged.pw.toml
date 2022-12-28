@@ -1,0 +1,13 @@
+name = "Better Furnaces Reforged"
+filename = "BetterFurnacesReforged-1.12.2-1.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37bdab27832323850631ec1746f917b1f6e1b926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4053198
+project-id = 395653

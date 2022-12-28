@@ -1,0 +1,8 @@
+name = "jopt-simple-5.0.3.jar"
+filename = "jopt-simple-5.0.3.jar"
+side = "server"
+
+[download]
+url = "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+hash-format = "sha1"
+hash = "cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a"

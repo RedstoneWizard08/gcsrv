@@ -1,0 +1,8 @@
+name = "scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+filename = "scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+hash-format = "sha1"
+hash = "f361a3283452c57fa30c1ee69448995de23c60f7"

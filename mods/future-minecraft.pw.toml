@@ -1,0 +1,13 @@
+name = "Future Versions"
+filename = "FutureVersions v1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "949a233ed26289cc7c8127900f387cb16560dca3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3091017
+project-id = 307776

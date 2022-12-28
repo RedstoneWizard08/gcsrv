@@ -1,0 +1,8 @@
+name = "scala-parser-combinators_2.11-1.0.1.jar"
+filename = "scala-parser-combinators_2.11-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+hash-format = "sha1"
+hash = "f05d7345bf5a58924f2837c6c1f4d73a938e1ff0"

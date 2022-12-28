@@ -1,0 +1,8 @@
+name = "maven-artifact-3.5.3.jar"
+filename = "maven-artifact-3.5.3.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+hash-format = "sha1"
+hash = "7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4"

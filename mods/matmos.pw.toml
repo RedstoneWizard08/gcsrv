@@ -1,0 +1,13 @@
+name = "MAtmos"
+filename = "matmos-1.12.2-35.4.7.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "349026a11224721a47c06bcd7f585a615acd9056"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3968679
+project-id = 366256

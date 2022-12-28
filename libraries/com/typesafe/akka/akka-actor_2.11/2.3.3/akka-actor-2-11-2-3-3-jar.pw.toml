@@ -1,0 +1,8 @@
+name = "akka-actor_2.11-2.3.3.jar"
+filename = "akka-actor_2.11-2.3.3.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+hash-format = "sha1"
+hash = "ed62e9fc709ca0f2ff1a3220daa8b70a2870078e"

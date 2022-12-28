@@ -1,0 +1,8 @@
+name = "scala-reflect-2.11.1.jar"
+filename = "scala-reflect-2.11.1.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+hash-format = "sha1"
+hash = "6580347e61cc7f8e802941e7fde40fa83b8badeb"

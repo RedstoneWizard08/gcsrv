@@ -1,0 +1,8 @@
+name = "log4j-slf4j18-impl-2.15.0.jar"
+filename = "log4j-slf4j18-impl-2.15.0.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+hash-format = "sha1"
+hash = "88f72ad364bfc3a7cf43186fc17212f2b4bb8d97"

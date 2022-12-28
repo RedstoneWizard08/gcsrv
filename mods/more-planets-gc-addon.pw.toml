@@ -1,0 +1,13 @@
+name = "More Planets - Galacticraft Add-on"
+filename = "More-Planets-1.12.2-2.3.0-GC4.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3898d1f5a14e7fc57b783d064734ac191c6e668"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4219738
+project-id = 261990

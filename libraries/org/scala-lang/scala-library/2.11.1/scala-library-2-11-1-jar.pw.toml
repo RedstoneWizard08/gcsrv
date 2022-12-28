@@ -1,0 +1,8 @@
+name = "scala-library-2.11.1.jar"
+filename = "scala-library-2.11.1.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+hash-format = "sha1"
+hash = "0e11da23da3eabab9f4777b9220e60d44c1aab6a"

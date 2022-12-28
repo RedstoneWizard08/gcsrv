@@ -1,0 +1,8 @@
+name = "scala-swing_2.11-1.0.1.jar"
+filename = "scala-swing_2.11-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+hash-format = "sha1"
+hash = "b1cdd92bd47b1e1837139c1c53020e86bb9112ae"

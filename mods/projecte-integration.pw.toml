@@ -1,0 +1,13 @@
+name = "ProjectE Integration"
+filename = "ProjectE-Integration-1.12.2-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f07989a90a1bda36a0aff349fd3d018ec4a6083"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3464929
+project-id = 313402

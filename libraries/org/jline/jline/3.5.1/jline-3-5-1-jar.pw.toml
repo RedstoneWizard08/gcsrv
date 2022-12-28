@@ -1,0 +1,8 @@
+name = "jline-3.5.1.jar"
+filename = "jline-3.5.1.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/org/jline/jline/3.5.1/jline-3.5.1.jar"
+hash-format = "sha1"
+hash = "51800e9d7a13608894a5a28eed0f5c7fa2f300fb"
