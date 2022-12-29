@@ -6,7 +6,7 @@ hash = "2bcb1e74a7227315ee94d28bb9cd3509185c4c00f43d66463aaa00c723b101ae"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "4fdccb6ccad291c3b0d9eb77bc4abc42a63eac559031348dde90803560f88816"
+hash = "9d4c9bd0fe60a670061e85e71763c0ed7e6d2ef06dc95ab2a373b97d03ea4270"
 
 [[files]]
 file = "README.md"
@@ -868,11 +868,6 @@ metafile = true
 [[files]]
 file = "mods/neat.pw.toml"
 hash = "6fc71bf665222edefe9b25de5c2d473aefba55a449c99ad89186c0d7ceaabeb5"
-metafile = true
-
-[[files]]
-file = "mods/netherending-ores.pw.toml"
-hash = "2e831e176397254d435a4c71dfcbeadf9d99a6964b22f8cfdcc260384b43c279"
 metafile = true
 
 [[files]]

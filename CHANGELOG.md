@@ -1,3 +1,11 @@
+# Version 0.3.1
+
+Removed netherending ores due to CurseForge limitations.
+
+## Changes:
+
+- Removed Netherending Ores.
+
 # Version 0.3.0
 
 Added some features and fixed some bugs.
