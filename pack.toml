@@ -1,12 +1,12 @@
 name = "gcsrv-pack"
 author = "RedstoneWizard08"
-version = "0.2.2"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "966511e4b7e72e7f55a93f18551f930ead8fc28bb421d5183e295c99a2dbeefb"
+hash = "1ec4ccffad61f85db85dc982dff0fec51402f2d74017e5898dc4f6ba1e65f548"
 
 [versions]
 forge = "14.23.5.2859"

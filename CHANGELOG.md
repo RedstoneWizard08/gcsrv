@@ -1,3 +1,22 @@
+# Version 0.3.0
+
+Added some features and fixed some bugs.
+
+## Changes:
+
+- Added Bibliocraft
+- Added Better Diving
+- Added Armourer's Workshop
+- Added Netherending Ores
+- Added Cosmetic Armor Reworked
+- Added EzerArch's Armourer's Workshop Skins:
+    - Mekanism
+    - Work
+    - Diving
+    - Astronaut
+- Update Refined Storage config to remove covers from JEI.
+- Fixed AsmodeusCore config to prevent compatibility issues.
+
 # Version 0.2.2
 
 Fixed problems with Dynamic Trees.

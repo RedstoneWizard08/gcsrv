@@ -1,8 +1,196 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "2bcb1e74a7227315ee94d28bb9cd3509185c4c00f43d66463aaa00c723b101ae"
+
+[[files]]
 file = "CHANGELOG.md"
-hash = "6161f6f177e72d73e601790351e6df5694bdd21fca5f34d7f07d3d278a355c4f"
+hash = "4fdccb6ccad291c3b0d9eb77bc4abc42a63eac559031348dde90803560f88816"
+
+[[files]]
+file = "README.md"
+hash = "b131c225cea6fc39a84d62e8107586346bf5693feb0d38f0aed4652d11819e66"
+
+[[files]]
+file = "armourers_workshop/skin-library/astronaut/Astronaut Backpack.armour"
+hash = "55f772d435afb8bf84468fb083c06fea4afbd85009b91209372f4e26b051433c"
+
+[[files]]
+file = "armourers_workshop/skin-library/astronaut/Astronaut Boots.armour"
+hash = "c1dfffa441c9a320968f7e6c56776b5705e58879d776c9f48984ddf8feff3b48"
+
+[[files]]
+file = "armourers_workshop/skin-library/astronaut/Astronaut Headlights.armour"
+hash = "91af615be69f2dcbb037867ebb57f3a4b6207920541c3b7406687e73fde092b5"
+
+[[files]]
+file = "armourers_workshop/skin-library/astronaut/Astronaut Helmet (block).armour"
+hash = "3f45b0aa859dbcc891ee7a4cee04dd72c0703b3cd1fe93300c459b4f9f3a64cf"
+
+[[files]]
+file = "armourers_workshop/skin-library/astronaut/Astronaut Helmet.armour"
+hash = "9358bed0b94bcd5ecc64851f11bb48715cd8679fe42b921aa4add2f0fdf64687"
+
+[[files]]
+file = "armourers_workshop/skin-library/astronaut/Astronaut Lower Torso.armour"
+hash = "92a9d913a79be1968c323d2a7fc57638d5760c7ec2a835b323a5ad703097212d"
+
+[[files]]
+file = "armourers_workshop/skin-library/astronaut/Astronaut Upper Torso.armour"
+hash = "e1763579dcfbde29343aa8eddeb78e7d902d4e77bfb63a53b21f9d1627d83ff7"
+
+[[files]]
+file = "armourers_workshop/skin-library/astronaut/readme.txt"
+hash = "939471aaf968f422caab614028ab7d1def4fcffb3691efe44e5097b97af36483"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Fins.armour"
+hash = "f08f8c059f56e067db0c2d8c5ed5ef2d203c8252820b7918abef648a9f011e70"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Life Jacket.armour"
+hash = "ceade6d71411fda7eb6ff819b5e969c7915de17e082020136dc87f7e9e485c4c"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Mask with Light.armour"
+hash = "56f72266f444310279cfc397bbf96e732868a7edb94ad9935b251c0a522aaf80"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Mask.armour"
+hash = "3c9dddcc8df5041ebba63e4b590055e9e525916cdf0514c2783af953e3aef942"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Mouthpiece and Mask.armour"
+hash = "5ab15ec48b45be8054e9f9ef6149c42ff768a785227cb9c502bb399a589044cd"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Mouthpiece.armour"
+hash = "a5be76110d2381caaba955db716f1e19e7bbffe89a5baaa2eaca12680564069e"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Snorkel.armour"
+hash = "7a68132a2b286c82162e245e5d2840b667096caf64745d287edc682385a612d3"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Suit Chest.armour"
+hash = "a043015629222f91aa1c4d4cf1386f804536244f00d5c7c38af0f3af9d8ee918"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Suit Hood (ninja).armour"
+hash = "2493598504e9444cabb31699aceae6928006479d7aff41fc7a1fa43d8391dce4"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Suit Hood.armour"
+hash = "da8aad1c698bf57afd62d6b466119bc8130ad7139e97081a5854b50083c58d93"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Suit Pants.armour"
+hash = "5733214f513aa572186f3545bbddadf00edd1060309441886085df9b4a441757"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Tank with Life Jacket.armour"
+hash = "74d41309f25abdb147552664b3aefe3a98ddc1f1b59d6c36d13b9e42dfc69806"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Tank.armour"
+hash = "7318910703494fbae2e43cc4bea377a81eeede9f9f1c1a4ba358721a653c059d"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/Diving Weight Belt.armour"
+hash = "3595935e436e86cf75f2d925a593816aa88b00c7daeee9cd81216f73ab784cc4"
+
+[[files]]
+file = "armourers_workshop/skin-library/diving/readme.txt"
+hash = "40869960ec9886f674f183dffdb7abe361a3ed44c2451d46368a82cc84a91d05"
+
+[[files]]
+file = "armourers_workshop/skin-library/mekanism/Mekanism Free Runners.armour"
+hash = "f77f59761577db62ebe36f71a947e67249c61df9eb4c236cb00af983e130dff0"
+
+[[files]]
+file = "armourers_workshop/skin-library/mekanism/Mekanism Gas Mask (block).armour"
+hash = "9b8b2a797a484d325bc1f5b5114b373b5b33a9fc943f0d2b628ec28886fd9a51"
+
+[[files]]
+file = "armourers_workshop/skin-library/mekanism/Mekanism Gas Mask.armour"
+hash = "6cdb010c003eaeff285a1d8debbde5346b8479a5467d6a028209bb196e74e27d"
+
+[[files]]
+file = "armourers_workshop/skin-library/mekanism/Mekanism Glowstone Boots.armour"
+hash = "466ca055d0e76da30f009c771d093006dbb53a924d480579bb86a89b4692de11"
+
+[[files]]
+file = "armourers_workshop/skin-library/mekanism/Mekanism Glowstone Chest.armour"
+hash = "a883a0f483449e1ec2b3a8cd33f3b920cc43f2a7f5485bced8e7824d9802f683"
+
+[[files]]
+file = "armourers_workshop/skin-library/mekanism/Mekanism Glowstone Helmet.armour"
+hash = "ff68e6a6bee34ff030b23835ccb926fe10e6f0c7ab670ee1793f7fcc56f149ca"
+
+[[files]]
+file = "armourers_workshop/skin-library/mekanism/Mekanism Glowstone Leggings.armour"
+hash = "c4431c1018310eb828c8e744f2bee68b79f7bc369962b28e7751519f68fc2509"
+
+[[files]]
+file = "armourers_workshop/skin-library/mekanism/readme.txt"
+hash = "9860e12ba72e2b892cc8691fcf297afddadb6ce7bf2434e18e9679e87314c1de"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Biker Backpack.armour"
+hash = "56102a365466b3d384a0307be6fb100d12426853221d83630c0a0afa7157f329"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Biker Boots (ankles).armour"
+hash = "fbcd4dc2f79d4cb5a3219a4597910dc68d7a21c285b32fe19093c60bf90397f7"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Biker Boots.armour"
+hash = "c7d01eada66a0fa21efa4c0e2174225c4aef24c7e701fc12de41d074f754d40a"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Biker Helmet (block).armour"
+hash = "133dc4b387018a289f939445020f20f29458b03d0c6b2a4a52073340ff2c0af9"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Biker Helmet (open face).armour"
+hash = "94d4cfb3390cd659ff2f63fb06e80ebdd6a7357b2dfda11554975e951253994c"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Biker Helmet.armour"
+hash = "399baaf3813189c3e78847b6410a8f2bd6c51637b5ca94ccfe7ab68788ca4b15"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Gas Mask (full face).armour"
+hash = "f728914e9ac31d6c4ffcc6b2a2d57ace1038375ba541dadb2a3721a982ab34a9"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Gas Mask (full head).armour"
+hash = "122b0211787b16635016af7dee936f898783555fd682eb0ead891f4ed4090742"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Gas Mask (half face).armour"
+hash = "d26b1b496915a9e2ab1799d6555deda867f4daf52e0a5e202efb0487612c703a"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Jet pilot mask.armour"
+hash = "53435782596872d63f52b61e3799d6d0f68b153701c954a6e5028635ec1fa7ed"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Safety Glasses.armour"
+hash = "609900110f7151d45bedb810f716f7aa7a27bd701d3276281bb31611bbd1740d"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/Tinted Safety Glasses.armour"
+hash = "2cd774f96be43258145b43bccf334f1241eb7614478563b0f67eeb2e48730347"
+
+[[files]]
+file = "armourers_workshop/skin-library/work/readme.txt"
+hash = "b8681f58b87facac7492c6441e6d3af7cec338472ebce25fd659c79e396f686c"
+
+[[files]]
+file = "config/AsmodeusCore/core.conf"
+hash = "527a64d4331724dfb39c893cc24d89d0c5e668747480123fb82bad089efe91da"
 
 [[files]]
 file = "config/ExtraPlanets.cfg"
@@ -19,6 +207,14 @@ hash = "ebc13080858449c37fa12d114488b9890f7c7bb48ef8e459d26ce918ecbd2817"
 [[files]]
 file = "config/GalaxySpace/dimensions.conf"
 hash = "bdef0e01c11387eff895508b6c01cc0d308035376d367cefb09f7c1c053d8bb9"
+
+[[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "adea172344369315d8c7b32268efdb0c5698a81d5c1ff0f43d3b8e7f418f120a"
+
+[[files]]
+file = "config/refinedstorage.cfg"
+hash = "5c2b5193213fd119c208937cb3a1ae02919a7e6c79658002a2dd36b0add97dba"
 
 [[files]]
 file = "config/splash.properties"
@@ -185,6 +381,11 @@ hash = "98ff97a3743b42d3a1237997ce7db804ca772dae2edbb8186d90516701ed7be5"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "df8cf98bf55bb65e48b1af05e3bfac808542ff9d4f527f4bfabeb87b23ff215a"
+metafile = true
+
+[[files]]
 file = "mods/asmodeuscore.pw.toml"
 hash = "2d42af07ea3232b9b8520b37dbd85c185dac62ec15c4f3392454d2334e091f6c"
 metafile = true
@@ -220,6 +421,11 @@ hash = "399839d6169e48b9e5f1bf11ea089e0b1b43e712779269317416519b95014726"
 metafile = true
 
 [[files]]
+file = "mods/better-diving.pw.toml"
+hash = "bcc74a9673716a0c11e8349fe42a1dbad7edbab7180cec272a113cc1e22a1945"
+metafile = true
+
+[[files]]
 file = "mods/better-furnaces-reforged.pw.toml"
 hash = "6108cb329f73e08f6e9928786b152c7ca6f876c42e7cf6fd97d9de47bd9f86b5"
 metafile = true
@@ -227,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/betterfps.pw.toml"
 hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
 metafile = true
 
 [[files]]
@@ -307,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
 metafile = true
 
 [[files]]
@@ -655,6 +871,11 @@ hash = "6fc71bf665222edefe9b25de5c2d473aefba55a449c99ad89186c0d7ceaabeb5"
 metafile = true
 
 [[files]]
+file = "mods/netherending-ores.pw.toml"
+hash = "2e831e176397254d435a4c71dfcbeadf9d99a6964b22f8cfdcc260384b43c279"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "3431051cce65c011bd7cd75412ad676ada9353851d7383199276faf34b5f3d6f"
 metafile = true
@@ -967,6 +1188,10 @@ hash = "f25944f4b3b44a0c56675f8e5b6bef304e329ada1c022a5d706de34e2f18edcf"
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "a7d334f843e3119fa55e0c574ea3cd8a0021cd4fe20fbd3e7bfd22f7d9e354e4"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "1675798337bfbea1a61398cffdc20214393f934a792f26104b0f77817670a44a"
 
 [[files]]
 file = "start.sh"
