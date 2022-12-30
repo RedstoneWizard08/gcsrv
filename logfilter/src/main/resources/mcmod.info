@@ -1,0 +1,16 @@
+[
+{
+  "modid": "logging-filter",
+  "name": "Logging Filter",
+  "description": "The GCSrv pack's logging filter.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RedstoneWizard08"],
+  "credits": "The Forge and FML guys, for making Minecraft Forge.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
