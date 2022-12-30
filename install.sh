@@ -6,6 +6,7 @@ rm pwib.jar packwiz-installer.jar
 chmod +x start.sh
 
 read -p "Do you agree to the Minecraft EULA (https://account.mojang.com/documents/minecraft_eula)? " -n 1 -r
+echo
 
 if [[ ! $REPLY =~ ^[Yy]$ ]]
 then
