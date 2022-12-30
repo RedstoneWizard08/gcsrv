@@ -6,11 +6,11 @@ hash = "2bcb1e74a7227315ee94d28bb9cd3509185c4c00f43d66463aaa00c723b101ae"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "c2b357156d856930213ab7913e47a4af756f1d3790db5494ba3c8a26f2d3d4be"
+hash = "8359f84e1c3f3ef8adb81e54e8e4ae3b89071a4fb46165565db641446721e3c7"
 
 [[files]]
 file = "README.md"
-hash = "b131c225cea6fc39a84d62e8107586346bf5693feb0d38f0aed4652d11819e66"
+hash = "72a3a1971f1e54b299af6e5241e5ddc44fb4ee2f42e67364d5d6fa925959364a"
 
 [[files]]
 file = "armourers_workshop/skin-library/astronaut/Astronaut Backpack.armour"
