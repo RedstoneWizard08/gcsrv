@@ -1,16 +1,16 @@
 # Version 0.4.0
 
-Removed Tiquality because of errors on the server-side and causing rendering glitches.
-Excluded some mods from TickDynamic config to allow proper rendering of entities.
-Filtered some messages from the logger using Console Filter.
-Fixed compatibility issues with Tinker's Construct, AE2, Thaumcraft, (etc.), and ProjectE.
-Fixed general compatibility issues.
-Added more magic and tech mods.
-Hidden AE2 facades in JEI.
-Hidden BuildCraft covers in JEI.
-Added some QoL mods.
-Added Simple Storage Network to help you get going.
-Added an "install.sh" script as a utility for servers.
+- Removed Tiquality because of errors on the server-side and causing rendering glitches.
+- Excluded some mods from TickDynamic config to allow proper rendering of entities.
+- Filtered some messages from the logger using Console Filter.
+- Fixed compatibility issues with Tinker's Construct, AE2, Thaumcraft, (etc.), and ProjectE.
+- Fixed general compatibility issues.
+- Added more magic and tech mods.
+- Hidden AE2 facades in JEI.
+- Hidden BuildCraft covers in JEI.
+- Added some QoL mods.
+- Added Simple Storage Network to help you get going.
+- Added an "install.sh" script as a utility for servers.
 
 ## Changes:
 
@@ -85,7 +85,7 @@ Added an "install.sh" script as a utility for servers.
 
 # Version 0.3.1
 
-Removed netherending ores due to CurseForge limitations.
+- Removed netherending ores due to CurseForge limitations.
 
 ## Changes:
 
@@ -93,7 +93,7 @@ Removed netherending ores due to CurseForge limitations.
 
 # Version 0.3.0
 
-Added some features and fixed some bugs.
+- Added some features and fixed some bugs.
 
 ## Changes:
 
@@ -112,7 +112,7 @@ Added some features and fixed some bugs.
 
 # Version 0.2.2
 
-Fixed problems with Dynamic Trees (by removing it).
+- Fixed problems with Dynamic Trees (by removing it).
 
 ## Changes:
 
@@ -120,7 +120,7 @@ Fixed problems with Dynamic Trees (by removing it).
 
 # Version 0.2.1
 
-Fixed problems with Biomes You'll Go (by removing it).
+- Fixed problems with Biomes You'll Go (by removing it).
 
 ## Changes:
 
@@ -128,7 +128,7 @@ Fixed problems with Biomes You'll Go (by removing it).
 
 # Version 0.2.0
 
-Misc updates and patches.
+- Misc updates and patches.
 
 ## Changes:
 
@@ -140,8 +140,8 @@ Misc updates and patches.
 
 # Version 0.1.1
 
-Fixed errors on the client side, caused by Nothirium, RenderLib, and Entity Culling.
-Also modified GalaxySpace and Forge config.
+- Fixed errors on the client side, caused by Nothirium, RenderLib, and Entity Culling.
+- Also modified GalaxySpace and Forge config.
 
 ## Changes:
 
@@ -154,4 +154,4 @@ Also modified GalaxySpace and Forge config.
 
 # Version 0.1.0
 
-Initial modpack creation.
+- Initial modpack creation.
