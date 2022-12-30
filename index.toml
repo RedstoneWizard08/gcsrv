@@ -6,7 +6,7 @@ hash = "2bcb1e74a7227315ee94d28bb9cd3509185c4c00f43d66463aaa00c723b101ae"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3dffbd53f41350984c78c0f797359915483ccb54ef3a4a274079e80d4262c524"
+hash = "bde78975558ca4add93bbf25aec3fdebdcd45fe9386201e7f5f7b7954c0d13ba"
 
 [[files]]
 file = "README.md"
@@ -786,11 +786,6 @@ hash = "566c771e4f7e25a2d27daaa52a304e9434c76939edf5676fad93721a56f5ed28"
 metafile = true
 
 [[files]]
-file = "mods/galactic-computers.pw.toml"
-hash = "5eecda4c5463e83a47915afbd9b5825e78ef4f6abc75ae182515e9eb274a556d"
-metafile = true
-
-[[files]]
 file = "mods/galacticraft-legacy.pw.toml"
 hash = "40bf93dce8d6d4769c2743a4768bb296902cdaa2a7bf8836402715a31269f06b"
 metafile = true
@@ -1093,11 +1088,6 @@ metafile = true
 [[files]]
 file = "mods/openblocks.pw.toml"
 hash = "978ca201971ac81b047c0be1caeaa23df557610507c70f0a8c88ba6549caa624"
-metafile = true
-
-[[files]]
-file = "mods/opencomputers.pw.toml"
-hash = "c61de336f3aaaa0d155163b5390ccf07b78180a85ec1d43868e8c4fdff20054f"
 metafile = true
 
 [[files]]
