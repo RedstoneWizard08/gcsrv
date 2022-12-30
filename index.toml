@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "install.sh"
-hash = "8a8714fdab89ce2e0a77114a21fa37977cf212d7194f7ea50fd1647797572aed"
+hash = "8e4cd2890efabe6ad589948eca42eda1e709cff8f7f620104c6508a0eafc7e71"
 
 [[files]]
 file = "libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor-2-11-2-3-3-jar.pw.toml"
