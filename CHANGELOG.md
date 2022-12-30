@@ -1,3 +1,12 @@
+# Version 0.4.2
+
+- Fixed crashes with OpenComputers causing the thread to hang.
+
+## Changes:
+
+- Removed OpenComputers.
+- Removed Galactic Computers.
+
 # Version 0.4.1
 
 - Renamed Console Filter to load it first.
