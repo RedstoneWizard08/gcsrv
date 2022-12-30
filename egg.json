@@ -1,0 +1,31 @@
+{
+    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
+    "meta": {
+        "version": "PTDL_v2",
+        "update_url": null
+    },
+    "exported_at": "2022-12-30T13:24:11-08:00",
+    "name": "GCSrv",
+    "author": "support@pterodactyl.io",
+    "description": "GCSrv server.",
+    "features": null,
+    "docker_images": {
+        "Java 8": "ghcr.io\/pterodactyl\/yolks:java_8"
+    },
+    "file_denylist": [],
+    "startup": "java -Xmx8192M -Xms4096M -jar forge-1.12.2-14.23.5.2859-universal.jar nogui",
+    "config": {
+        "files": "{}",
+        "startup": "{\r\n    \"done\": \")! For help, type \"\r\n}",
+        "logs": "{}",
+        "stop": "stop"
+    },
+    "scripts": {
+        "installation": {
+            "script": "#!\/bin\/ash\r\n\r\nmkdir -p \/mnt\/server\r\ncd \/mnt\/server\r\n\r\napk update\r\napk upgrade\r\napk add ca-certificates\r\nupdate-ca-certificates\r\napk add --update coreutils\r\nrm -rf \/var\/cache\/apk\/*\r\napk add openjdk8 tzdata curl unzip bash\r\napk add --no-cache nss\r\nrm -rf \/var\/cache\/apk\/*\r\n\r\ncurl -fsSLo pwib.jar https:\/\/github.com\/packwiz\/packwiz-installer-bootstrap\/releases\/download\/v0.0.3\/packwiz-installer-bootstrap.jar\r\njava -jar pwib.jar -s server -g https:\/\/raw.githubusercontent.com\/RedstoneWizard08\/gcsrv\/main\/pack.toml\r\nrm pwib.jar packwiz-installer.jar\r\n\r\necho -e \"Install Complete\"",
+            "container": "ghcr.io\/pterodactyl\/installers:alpine",
+            "entrypoint": "ash"
+        }
+    },
+    "variables": []
+}

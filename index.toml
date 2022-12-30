@@ -233,6 +233,10 @@ file = "config/tickdynamic.cfg"
 hash = "9c6c8cf0b0fd5b58fa897d7b36701dcb0dbc25df2f8d55a5215539e63e77e8cb"
 
 [[files]]
+file = "egg.json"
+hash = "59ba307915465fc48fa9300ed089620677432ecb011dde5fff3265a8281cd08d"
+
+[[files]]
 file = "forge-server-jar.pw.toml"
 hash = "b0b0d88a2a9afd347eb5bf8b0e4efa14ff5ef7547f8c62677cb16d421cbe137f"
 metafile = true
