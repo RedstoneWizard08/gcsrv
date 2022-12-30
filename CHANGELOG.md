@@ -1,3 +1,12 @@
+# Version 0.5.0
+
+- Added some QoL mods, as well as Simple Planes.
+
+## Changes:
+
+- Added Simple Planes
+- Added The One Probe
+
 # Version 0.4.2
 
 - Fixed crashes with OpenComputers causing the thread to hang.

@@ -6,7 +6,7 @@ hash = "2bcb1e74a7227315ee94d28bb9cd3509185c4c00f43d66463aaa00c723b101ae"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "bde78975558ca4add93bbf25aec3fdebdcd45fe9386201e7f5f7b7954c0d13ba"
+hash = "e34a0f6d1f44693a1fc96a15f0c784a5b74e8fce0753d120508fc14ba5634bde"
 
 [[files]]
 file = "README.md"
@@ -1236,6 +1236,11 @@ hash = "ea500953c3b4b9e989f0ea5a33b0ab03e86ee9798510129ba9ea91743e31869c"
 metafile = true
 
 [[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "481bc0483b93186fe04c65f911bf9a15620de0b030adfdecd6c1ec808b49f1ed"
+metafile = true
+
+[[files]]
 file = "mods/simple-storage-network.pw.toml"
 hash = "62814a10c80fd9da818a3586a4df9604614e176390eb45a53c1adfc25037afe3"
 metafile = true
@@ -1338,6 +1343,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-tinkerer.pw.toml"
 hash = "507c09a75c132f23d98702e2ff26f16bff2f4a550d26a448628a43b2a96e0540"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
 metafile = true
 
 [[files]]
