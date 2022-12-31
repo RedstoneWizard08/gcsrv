@@ -6,11 +6,11 @@ hash = "2bcb1e74a7227315ee94d28bb9cd3509185c4c00f43d66463aaa00c723b101ae"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "8359f84e1c3f3ef8adb81e54e8e4ae3b89071a4fb46165565db641446721e3c7"
+hash = "c2b357156d856930213ab7913e47a4af756f1d3790db5494ba3c8a26f2d3d4be"
 
 [[files]]
 file = "README.md"
-hash = "a8ee19a4714b7281a443fbbc8119efc52b2e27fec49d705c0de08b2f36ad91df"
+hash = "b131c225cea6fc39a84d62e8107586346bf5693feb0d38f0aed4652d11819e66"
 
 [[files]]
 file = "armourers_workshop/skin-library/astronaut/Astronaut Backpack.armour"
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "install.sh"
-hash = "7874452dc811c968656f47cc5aa3a011e3cb6ad4a90349da81ec2a88af6e684d"
+hash = "fb9b5ed6ea91a2f87bb5dba3aa2bcf6ab8b3f3e13b4e678d79586314ba6a40b6"
 
 [[files]]
 file = "libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor-2-11-2-3-3-jar.pw.toml"
@@ -1510,4 +1510,4 @@ hash = "1675798337bfbea1a61398cffdc20214393f934a792f26104b0f77817670a44a"
 
 [[files]]
 file = "start.sh"
-hash = "d918c9ab04c683ef6416bd924a4efd779a12dfa10d6449479b3ab33d4e0c4739"
+hash = "861af902dcc34cc24fbdb36f4c5c46525eaba33d9f118daa0feb9569847d52ba"

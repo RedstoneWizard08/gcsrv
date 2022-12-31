@@ -9,6 +9,7 @@ hash-format = "sha256"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hash = "e251ed6a6058335a1a59a5383d82f94ebb03893d4f25f8deedba94e06ad7eed0"
 =======
 hash = "0da5b1625b1bad4f52f271f9bbe384e0700671d8f5d363e3abd1173b144bbb60"
@@ -19,6 +20,9 @@ hash = "56e5c10c36258181cdfc3dc01fb7b174874e6da06f019726af140a0a9748bc2c"
 =======
 hash = "97b5210d489f9399f190fc0e90de5a1f738324b077b244df320470154610fc5a"
 >>>>>>> parent of 112f668 (v0.4.1)
+=======
+hash = "4d5cfe21d85ad600b722bd75e992c53c9292e1966e118abea24774895bff9226"
+>>>>>>> parent of 2f42758 (Fix things)
 
 [versions]
 forge = "14.23.5.2859"
