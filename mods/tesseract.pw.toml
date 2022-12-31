@@ -3,11 +3,11 @@ filename = "tesseract-1.0.27-forge-mc1.12.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/OUhp5O2m/versions/1.0.27-forge-mc1.12/tesseract-1.0.27-forge-mc1.12.jar"
 hash-format = "sha1"
 hash = "62cdacbf009669830607b84e10ca16b5c92283c3"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3840294
-project-id = 379232
+[update.modrinth]
+mod-id = "OUhp5O2m"
+version = "4Nhq4XxR"

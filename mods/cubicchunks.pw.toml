@@ -1,0 +1,13 @@
+name = "CubicChunks"
+filename = "CubicChunks-1.12.2-0.0.1208.0-SNAPSHOT-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Tb4j8xo/versions/1.12.2-0.0.1208.0/CubicChunks-1.12.2-0.0.1208.0-SNAPSHOT-all.jar"
+hash-format = "sha1"
+hash = "9d7b4db8c598b23598b46d0218542526dba84bf4"
+
+[update]
+[update.modrinth]
+mod-id = "8Tb4j8xo"
+version = "LJFNZU4f"

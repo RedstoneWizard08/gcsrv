@@ -1,0 +1,13 @@
+name = "Morph-o-Tool"
+filename = "Morph-o-Tool-1.2-21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rtbzFq0N/versions/UOq3HezC/Morph-o-Tool-1.2-21.jar"
+hash-format = "sha1"
+hash = "55a363ccd8e0614229991cd1f6bf831eaf874ff7"
+
+[update]
+[update.modrinth]
+mod-id = "rtbzFq0N"
+version = "UOq3HezC"

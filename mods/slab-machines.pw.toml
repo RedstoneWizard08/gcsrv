@@ -3,11 +3,11 @@ filename = "Slab_Machines-1.0.7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/X2rOcP3N/versions/1.0.7.0/Slab_Machines-1.0.7.jar"
 hash-format = "sha1"
 hash = "d51f425de4d3b911c711ea870763c78af9e23441"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 2994937
-project-id = 301854
+[update.modrinth]
+mod-id = "X2rOcP3N"
+version = "C17Hrll7"

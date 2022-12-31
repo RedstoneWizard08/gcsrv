@@ -1,13 +1,13 @@
-name = "Re-chiseled"
+name = "Rechiseled"
 filename = "rechiseled-1.0.10-mc1.12.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/1.0.10-forge-mc1.12/rechiseled-1.0.10-mc1.12.jar"
 hash-format = "sha1"
 hash = "0a262497b6b91269460dba2abb35c1c030b06bd7"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3669007
-project-id = 558998
+[update.modrinth]
+mod-id = "B0g2vT6l"
+version = "NvotoSeA"

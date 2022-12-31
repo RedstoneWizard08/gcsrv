@@ -3,11 +3,11 @@ filename = "carryon-1.12.2-1.12.6.20.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/joEfVgkn/versions/WaUwGT7r/carryon-1.12.2-1.12.6.20.jar"
 hash-format = "sha1"
 hash = "cd65550af7be08d15af5472e2f5e0dc2a2330241"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3498879
-project-id = 274259
+[update.modrinth]
+mod-id = "joEfVgkn"
+version = "WaUwGT7r"

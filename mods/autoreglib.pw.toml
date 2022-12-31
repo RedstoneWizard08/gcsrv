@@ -3,11 +3,11 @@ filename = "AutoRegLib-1.3-32.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/NvZ9ZhwE/versions/FgbUBupA/AutoRegLib-1.3-32.jar"
 hash-format = "sha1"
 hash = "267269ca7f1a71fb3bb35bdb8e61702a4da6263e"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 2746011
-project-id = 250363
+[update.modrinth]
+mod-id = "NvZ9ZhwE"
+version = "FgbUBupA"

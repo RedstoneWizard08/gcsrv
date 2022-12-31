@@ -3,11 +3,11 @@ filename = "getittogetherdrops-1.12.2-v1.0.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/T0OUgf8P/versions/WJuCpwMZ/getittogetherdrops-1.12.2-v1.0.2.jar"
 hash-format = "sha1"
 hash = "dbf4143e35baa4eec8d3dfebee341bba3afab7dc"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3745662
-project-id = 411045
+[update.modrinth]
+mod-id = "T0OUgf8P"
+version = "WJuCpwMZ"

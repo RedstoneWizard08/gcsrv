@@ -3,11 +3,11 @@ filename = "aiotbotania-0.7.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/TFFWPTSD/versions/0.7.1/aiotbotania-0.7.1.jar"
 hash-format = "sha1"
 hash = "56c09ce3fc3e79c15708329b0799134c995e7a0f"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 2807928
-project-id = 294815
+[update.modrinth]
+mod-id = "TFFWPTSD"
+version = "EESuCcez"

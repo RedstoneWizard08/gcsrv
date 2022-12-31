@@ -3,11 +3,11 @@ filename = "WorldEditItems-v.1.1.0-Forge-1.12.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/xBMX8ICO/versions/1.1.0/WorldEditItems-v.1.1.0-Forge-1.12.2.jar"
 hash-format = "sha1"
 hash = "74764f0d2de7f0035469bf246a6eb682e514b8b8"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3717867
-project-id = 584724
+[update.modrinth]
+mod-id = "xBMX8ICO"
+version = "rKfncpju"

@@ -3,11 +3,11 @@ filename = "EnderCore-1.12.2-0.5.76.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/oJcFXakG/versions/0.5.76/EnderCore-1.12.2-0.5.76.jar"
 hash-format = "sha1"
 hash = "a61fda64cfb0e3852690678fbd7375a1ea982884"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 2972849
-project-id = 231868
+[update.modrinth]
+mod-id = "oJcFXakG"
+version = "SQnnu0Om"

@@ -3,11 +3,11 @@ filename = "additionallanterns-1.0.1a-forge-mc1.12.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/jXNvTKds/versions/1.0.1a-forge-mc1.12/additionallanterns-1.0.1a-forge-mc1.12.jar"
 hash-format = "sha1"
 hash = "f32b7daa5c986976fd1e5acc103d4e263e6702e2"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3819296
-project-id = 501590
+[update.modrinth]
+mod-id = "jXNvTKds"
+version = "1091xXMn"

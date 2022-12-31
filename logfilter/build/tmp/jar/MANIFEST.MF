@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: logfilter
+Implementation-Version: 1.0
+Specification-Vendor: RedstoneWizard08
+Specification-Title: logging-filter
+Implementation-Timestamp: 2022-12-30T05:00:25+0000
+Specification-Version: 1
+Implementation-Vendor: RedstoneWizard08
+
