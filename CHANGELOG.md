@@ -1,13 +1,3 @@
-# Version 0.4.1
-
-- Renamed Console Filter to load it first.
-- Added custom logging filter to prevent log spamming.
-
-## Changes:
-
-- Renamed Console Filter.
-- Added Logging Filter.
-
 # Version 0.4.0
 
 - Removed Tiquality because of errors on the server-side and causing rendering glitches.

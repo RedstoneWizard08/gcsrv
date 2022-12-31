@@ -6,7 +6,7 @@ hash = "2bcb1e74a7227315ee94d28bb9cd3509185c4c00f43d66463aaa00c723b101ae"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3dffbd53f41350984c78c0f797359915483ccb54ef3a4a274079e80d4262c524"
+hash = "8359f84e1c3f3ef8adb81e54e8e4ae3b89071a4fb46165565db641446721e3c7"
 
 [[files]]
 file = "README.md"
@@ -366,10 +366,6 @@ hash = "a8bd624f8e4180563956f70dc84419e63b8fa5f0528a9c5d44921fbdfc916f4b"
 metafile = true
 
 [[files]]
-file = "mods/!_000_logging-filter-1.0.jar"
-hash = "146f6bbf2b3df9033c89fadb415383718895db21c84f0a74db6d4569c336274d"
-
-[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
 metafile = true
@@ -596,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/console-filter.pw.toml"
-hash = "3f0c872419f2c63aeeeec8ac58ac747cb0ed0d9b67abea27efc96ed42deae09b"
+hash = "7f945594844c91c941d88c7521a53550e27957fe8a2b6f07985001a889a066e0"
 metafile = true
 
 [[files]]
