@@ -6,27 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-hash = "e251ed6a6058335a1a59a5383d82f94ebb03893d4f25f8deedba94e06ad7eed0"
-=======
-hash = "0da5b1625b1bad4f52f271f9bbe384e0700671d8f5d363e3abd1173b144bbb60"
->>>>>>> parent of cccc629 (v0.5.0)
-=======
-hash = "56e5c10c36258181cdfc3dc01fb7b174874e6da06f019726af140a0a9748bc2c"
->>>>>>> parent of 18f2f2c (v0.4.2)
-=======
-hash = "97b5210d489f9399f190fc0e90de5a1f738324b077b244df320470154610fc5a"
->>>>>>> parent of 112f668 (v0.4.1)
-=======
-hash = "4d5cfe21d85ad600b722bd75e992c53c9292e1966e118abea24774895bff9226"
->>>>>>> parent of 2f42758 (Fix things)
-=======
-hash = "1faff0580418a2afef2e72fc29f8659cc9bc1522627092568b33ec3c4a6a15d5"
->>>>>>> parent of 047cf63 (v0.4.0)
+hash = "5689ad8c4029c081aa646e55d8e29f0aca2f3ccd99f22ae6f0bc6ec316620c73"
 
 [versions]
 forge = "14.23.5.2859"
