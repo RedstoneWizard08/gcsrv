@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION=0.5.0+1.12.2_14.23.5.2859
+VERSION=0.4.2+1.12.2_14.23.5.2859
 
 [[ ! -d build ]] && mkdir build
 
